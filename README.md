@@ -1,1 +1,1 @@
-This is commit Create .gitattributes
+This is commit Update .gitattributes
