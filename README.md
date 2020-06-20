@@ -1,1 +1,1 @@
-This is commit Add files via upload
+This is commit Delete dashboard.png
