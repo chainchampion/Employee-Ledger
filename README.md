@@ -1,1 +1,1 @@
-This is commit Delete dashboard.png
+This is commit Delete user_login.png
