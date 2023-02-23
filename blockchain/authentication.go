@@ -289,3 +289,9 @@ func (s *FabricSetup) RegisterUser(name, email, company, occupation, salary, pas
 
 	return u, nil
 }
+
+
+
+
+
+
